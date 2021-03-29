@@ -1,8 +1,9 @@
 import React from 'react';
+import AppBar from './Appbar';
 
 const App = ()=>{
     return (
-        <div>App</div>
+        <AppBar />
     );
 };
 
